@@ -10,7 +10,7 @@ To run the api :
 
 ........
 
-The api app is accessible now on http://localhost:8080/
+The api is accessible now on http://localhost:8080/
 
 ...........
 
