@@ -1,0 +1,4 @@
+flask #a python framework
+psycopg2-binary #to establish connection with postgres db
+Flask-SQLAlchemy # help generate sql queries without writing manually
+python-dotenv # to use .env files
