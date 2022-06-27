@@ -4,7 +4,9 @@ To run the api :
 
 2. cd crud
 
-3. sudo docker-compose up --build
+3. cp crud.env .env
+
+4. sudo docker-compose up --build
 
 -- check >> sudo docker ps -a >> you will see two containers one for the app and the other for db
 
